@@ -34,3 +34,11 @@ This experiment demonstrates:
 
 \- Pushing changes to GitHub
 
+
+
+\## Git Workflow
+
+
+
+The project uses Git branches to develop features independently before merging them into the main branch.
+
